@@ -1,0 +1,1 @@
+*.pkl\n*.parquet\n*.xlsx\n\n.DS_Store\nThumbs.db\n\n__pycache__/\n*.pyc\n\n.ipynb_checkpoints/
